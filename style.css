@@ -7,3 +7,18 @@
     --cor-secondaria: #E865FF;
     --cor-marcação:#523F55;
 }
+header{
+    height: 15vh;
+    background-color: var(--cor-principal);
+}
+#logo{
+    height: 10vh;
+    width: 10vh;
+    margin: 2vh 2vw;
+    border-radius: 50%;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    display: inline-flex;
+}

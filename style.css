@@ -2,8 +2,8 @@
     margin:0px ;
     padding: 0px;
 }
-#ico{
-
-    border-radius: 50%;
-
+:root{
+    --cor-principal: #A47DAB;
+    --cor-secondaria: #E865FF;
+    --cor-marcação:#523F55;
 }
